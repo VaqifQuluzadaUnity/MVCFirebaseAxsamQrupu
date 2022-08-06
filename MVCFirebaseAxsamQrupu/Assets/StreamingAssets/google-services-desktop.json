@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554736096329",
+    "project_id": "firestoreaxsamqrupu",
+    "storage_bucket": "firestoreaxsamqrupu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554736096329:android:8c613629f239d0cf801b98",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MVCFirebaseAxsamQrupu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554736096329-bogi75pqduoh1lpho3isqtcg3uoj0pub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCFGThqIXbTj6f24nTxSbJHO63EXxwxEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554736096329-bogi75pqduoh1lpho3isqtcg3uoj0pub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
